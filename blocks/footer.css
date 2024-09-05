@@ -1,0 +1,16 @@
+.footer {
+  display: flex;
+  padding: 0;
+}
+
+.footer__copyright {
+  justify-content: space-around;
+  font-family: "Poppins", Arial, Helvetica, sans-serif;
+  margin: 60px auto;
+  font-style: normal;
+  font-size: 16px;
+  font-weight: 400;
+  height: 16px;
+  line-height: 1;
+  color: #212121b2;
+}
