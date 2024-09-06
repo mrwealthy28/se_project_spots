@@ -20,3 +20,7 @@ This project is made so all the elements are displayed correctly on popular scre
 
 ![Desktop](./images/Screenshot%202024-08-29%20185428.png)
 ![Mobile](./images/Screenshot%202024-08-29%20191822.png)
+
+**Video**
+
+[Video]("https://drive.google.com/file/d/1lwrRg_YdDA4P1i2rthf6eF90qetnxSQx/view?usp=drive_link")
