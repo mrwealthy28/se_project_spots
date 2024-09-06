@@ -23,4 +23,4 @@ This project is made so all the elements are displayed correctly on popular scre
 
 **Video**
 
-[Video]("https://drive.google.com/file/d/1lwrRg_YdDA4P1i2rthf6eF90qetnxSQx/view?usp=drive_link")
+![Video]("https://drive.google.com/file/d/1lwrRg_YdDA4P1i2rthf6eF90qetnxSQx/view?usp=drive_link")
