@@ -31,6 +31,7 @@
 }
 
 .profile__description {
+  margin: 12px 0 0;
   font-size: 16px;
   line-height: 1;
   font-weight: 500;
@@ -60,6 +61,12 @@
   opacity: 70%;
 }
 
+.profile__edit-btn:hover {
+  cursor: pointer;
+  opacity: 1;
+  transition: opacity 100ms linear;
+}
+
 .profile__add-btn {
   display: flex;
   justify-content: center;
@@ -77,6 +84,12 @@
   color: #fcf5e5;
   border-radius: 8px;
   font-size: 16px;
+}
+
+.profile__add-btn:hover {
+  cursor: pointer;
+  opacity: 80%;
+  transition: opacity 50ms linear;
 }
 
 @media screen and (max-width: 627px) {
