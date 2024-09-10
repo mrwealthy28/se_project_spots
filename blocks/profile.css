@@ -27,7 +27,7 @@
   display: -webkit-box;
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
-  max-width: 420px;
+  max-width: 100%;
 }
 
 .profile__description {
@@ -42,7 +42,7 @@
   display: -webkit-box;
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
-  max-width: 420px;
+  max-width: 100%;
 }
 
 .profile__edit-btn {
@@ -99,8 +99,9 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    max-width: 288px;
+    max-width: 100%;
     text-align: center;
+    width: 100%;
   }
 
   .profile__avatar {
@@ -112,11 +113,12 @@
   .profile__name {
     margin: 0 0 6px;
     max-width: 288px;
+    font-size: 20px;
   }
 
   .profile__description {
     margin: 0 0 32px;
-    max-width: 288;
+    max-width: 288px;
   }
 
   .profile__edit-btn {
