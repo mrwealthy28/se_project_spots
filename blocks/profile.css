@@ -20,7 +20,7 @@
   margin: 0;
   font-size: 32px;
   font-weight: 500;
-  line-height: 32px;
+  line-height: 1;
   font-style: normal;
   text-overflow: ellipsis;
   overflow: hidden;
@@ -119,6 +119,7 @@
   .profile__description {
     margin: 0 0 32px;
     max-width: 288px;
+    font-size: 16px;
   }
 
   .profile__edit-btn {
