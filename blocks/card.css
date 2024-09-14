@@ -12,6 +12,7 @@
 }
 
 .card__content {
+  margin: 12px 0 0;
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -21,8 +22,7 @@
 .card__title {
   font-family: "Poppins", Arial, Helvetica, sans-serif;
   padding: 0;
-  margin: 12px 0 0;
-  height: 24px;
+  margin: 0;
   font-size: 20px;
   line-height: 1.4;
   font-weight: 500;
@@ -37,6 +37,7 @@
 .card__like-btn {
   background-image: url(../images/heart.svg);
   background-repeat: no-repeat;
+  background-size: cover;
   width: 23px;
   height: 20px;
   background-color: transparent;
@@ -60,7 +61,7 @@
     line-height: 1;
   }
 
-  card__like-btn {
+  .card__like-btn {
     width: 20px;
     height: 18px;
   }
